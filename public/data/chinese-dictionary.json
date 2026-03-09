@@ -1,0 +1,192 @@
+{
+  "书": {
+    "word": "书",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "book; teks yang dibacakan",
+        "partOfSpeech": "noun",
+        "examples": ["我爱读书。", "这本书很有趣。"],
+        "synonyms": ["书籍", "书本"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["book"],
+      "ms": ["buku", "kitab"]
+    },
+    "synonyms": ["书籍", "书本"],
+    "antonyms": []
+  },
+  "汽车": {
+    "word": "汽车",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "kenderaan bermotor; vehicle",
+        "partOfSpeech": "noun",
+        "examples": ["我有一辆汽车。", "汽车很快。"],
+        "synonyms": ["车", "轿车"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["car", "automobile"],
+      "ms": ["kereta", "mobil"]
+    },
+    "synonyms": ["车", "轿车"],
+    "antonyms": []
+  },
+  "房子": {
+    "word": "房子",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "rumah; tempat tinggal",
+        "partOfSpeech": "noun",
+        "examples": ["我的房子很大。", "这个房子很漂亮。"],
+        "synonyms": ["房屋", "住宅"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["house", "home"],
+      "ms": ["rumah", "kediaman"]
+    },
+    "synonyms": ["房屋", "住宅"],
+    "antonyms": []
+  },
+  "吃": {
+    "word": "吃",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "makan; mengambil makanan",
+        "partOfSpeech": "verb",
+        "examples": ["我吃饭。", "我们一起吃吧。"],
+        "synonyms": ["进食", "用餐"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["eat"],
+      "ms": ["makan"]
+    },
+    "synonyms": ["进食", "用餐"],
+    "antonyms": []
+  },
+  "喝": {
+    "word": "喝",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "minum; mengambil cairan",
+        "partOfSpeech": "verb",
+        "examples": ["我喝水。", "喝茶还是喝咖啡？"],
+        "synonyms": ["饮用", "摄取"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["drink"],
+      "ms": ["minum"]
+    },
+    "synonyms": ["饮用", "摄取"],
+    "antonyms": []
+  },
+  "大": {
+    "word": "大",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "besar; size yang besar",
+        "partOfSpeech": "adjective",
+        "examples": ["这个很大。", "大城市"],
+        "synonyms": ["巨大", "宏大"],
+        "antonyms": ["小"]
+      }
+    ],
+    "translations": {
+      "en": ["big", "large", "great"],
+      "ms": ["besar", "luas"]
+    },
+    "synonyms": ["巨大", "宏大"],
+    "antonyms": ["小"]
+  },
+  "小": {
+    "word": "小",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "kecil; size yang kecil",
+        "partOfSpeech": "adjective",
+        "examples": ["这个很小。", "小镇"],
+        "synonyms": ["细小", "微"],
+        "antonyms": ["大"]
+      }
+    ],
+    "translations": {
+      "en": ["small", "little"],
+      "ms": ["kecil"]
+    },
+    "synonyms": ["细小", "微"],
+    "antonyms": ["大"]
+  },
+  "好": {
+    "word": "好",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "bagus; baik",
+        "partOfSpeech": "adjective",
+        "examples": ["这个很好！", "你好吗？"],
+        "synonyms": ["优良", "出色"],
+        "antonyms": ["坏", "差"]
+      }
+    ],
+    "translations": {
+      "en": ["good", "well", "okay"],
+      "ms": ["bagus", "baik"]
+    },
+    "synonyms": ["优良", "出色"],
+    "antonyms": ["坏", "差"]
+  },
+  "坏": {
+    "word": "坏",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "buruk; tidak baik",
+        "partOfSpeech": "adjective",
+        "examples": ["这个坏了。", "天气很坏。"],
+        "synonyms": ["糟糕", "差"],
+        "antonyms": ["好"]
+      }
+    ],
+    "translations": {
+      "en": ["bad", "broken"],
+      "ms": ["buruk", "rosak"]
+    },
+    "synonyms": ["糟糕", "差"],
+    "antonyms": ["好"]
+  },
+  "水": {
+    "word": "水",
+    "language": "zh",
+    "definitions": [
+      {
+        "meaning": "air; cecair keperluan hidup",
+        "partOfSpeech": "noun",
+        "examples": ["我喝水。", "自来水"],
+        "synonyms": ["水分", "H2O"],
+        "antonyms": ["火"]
+      }
+    ],
+    "translations": {
+      "en": ["water"],
+      "ms": ["air"]
+    },
+    "synonyms": ["水分", "H2O"],
+    "antonyms": ["火"]
+  }
+}

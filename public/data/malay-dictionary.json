@@ -1,0 +1,194 @@
+{
+  "buku": {
+    "word": "buku",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "kitab; teks yang dibacakan",
+        "partOfSpeech": "noun",
+        "examples": ["Saya membaca buku itu setiap hari."],
+        "synonyms": ["kitab", "tulis"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["book"],
+      "zh": ["书", "书本"]
+    },
+    "synonyms": ["kitab", "tulis"],
+    "antonyms": []
+  },
+  "kereta": {
+    "word": "kereta",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "kenderaan bermotor yang digunakan untuk pengangkutan",
+        "partOfSpeech": "noun",
+        "examples": ["Kereta itu sangat cantik."],
+        "synonyms": ["mobil", "kenderaan"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["car", "vehicle"],
+      "zh": ["汽车", "车"]
+    },
+    "synonyms": ["mobil", "kenderaan"],
+    "antonyms": []
+  },
+  "rumah": {
+    "word": "rumah",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "kediaman; tempat tinggal",
+        "partOfSpeech": "noun",
+        "examples": ["Rumah saya besar.", "Saya balik rumah tomorrow."],
+        "synonyms": ["kediaman", "penginapan"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["house", "home"],
+      "zh": ["房子", "家"]
+    },
+    "synonyms": ["kediaman", "penginapan"],
+    "antonyms": []
+  },
+  "makan": {
+    "word": "makan",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "
+      {
+       mengambil makanan ke dalam mulut dan menelannya",
+        "partOfSpeech": "verb",
+        "examples": ["Saya makan nasi.", "Mari kita makan bersama."],
+        "synonyms": ["mengambil", "menelan"],
+        "antonyms": ["berkotak"]
+      }
+    ],
+    "translations": {
+      "en": ["eat"],
+      "zh": ["吃"]
+    },
+    "synonyms": ["mengambil", "menelan"],
+    "antonyms": ["berkotak"]
+  },
+  "minum": {
+    "word": "minum",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "mengambil cairan ke dalam badan melalui mulut",
+        "partOfSpeech": "verb",
+        "examples": ["Saya minum air.", "Minum yang banyak!"],
+        "synonyms": ["menghidu"],
+        "antonyms": []
+      }
+    ],
+    "translations": {
+      "en": ["drink"],
+      "zh": ["喝", "饮用"]
+    },
+    "synonyms": ["menghidu"],
+    "antonyms": []
+  },
+  "besar": {
+    "word": "besar",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "size yang large; tidak kecil",
+        "partOfSpeech": "adjective",
+        "examples": ["Rumah itu besar.", "Kereta besar"],
+        "synonyms": ["besar", "luas"],
+        "antonyms": ["kecil"]
+      }
+    ],
+    "translations": {
+      "en": ["big", "large", "great"],
+      "zh": ["大", "巨大"]
+    },
+    "synonyms": ["besar", "luas"],
+    "antonyms": ["kecil"]
+  },
+  "kecil": {
+    "word": "kecil",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "size yang small; tidak besar",
+        "partOfSpeech": "adjective",
+        "examples": ["Baju ini kecil.", "Kereta kecil"],
+        "synonyms": ["kecil", "mini"],
+        "antonyms": ["besar"]
+      }
+    ],
+    "translations": {
+      "en": ["small", "little"],
+      "zh": ["小", "小"]
+    },
+    "synonyms": ["kecil", "mini"],
+    "antonyms": ["besar"]
+  },
+  "bagus": {
+    "word": "bagus",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "baik; excelente",
+        "partOfSpeech": "adjective",
+        "examples": ["Ini bagus!", "Hasil kerja yang bagus."],
+        "synonyms": ["baik", "hebat"],
+        "antonyms": ["buruk", "jelek"]
+      }
+    ],
+    "translations": {
+      "en": ["good", "great", "excellent"],
+      "zh": ["好", "棒"]
+    },
+    "synonyms": ["baik", "hebat"],
+    "antonyms": ["buruk", "jelek"]
+  },
+  "buruk": {
+    "word": "buruk",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "tidak baik; jelek",
+        "partOfSpeech": "adjective",
+        "examples": ["Cuaca buruk.", "Kualiti yang buruk."],
+        "synonyms": ["jelek", "tak elok"],
+        "antonyms": ["bagus", "baik"]
+      }
+    ],
+    "translations": {
+      "en": ["bad", "poor"],
+      "zh": ["坏", "糟糕"]
+    },
+    "synonyms": ["jelek", "tak elok"],
+    "antonyms": ["bagus", "baik"]
+  },
+  "air": {
+    "word": "air",
+    "language": "ms",
+    "definitions": [
+      {
+        "meaning": "cecair yang keperluan untuk hidup",
+        "partOfSpeech": "noun",
+        "examples": ["Saya minum air.", "Air sungai."],
+        "synonyms": ["cea", "H2O"],
+        "antonyms": ["api"]
+      }
+    ],
+    "translations": {
+      "en": ["water"],
+      "zh": ["水"]
+    },
+    "synonyms": ["cea", "H2O"],
+    "antonyms": ["api"]
+  }
+}

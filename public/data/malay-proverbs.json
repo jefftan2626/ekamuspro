@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "proverb": "Bagaikan air dalam daun keladi",
+    "meaning": "Tidak tetap pendirian; sering berubah-ubah",
+    "relatedWords": ["air", "keladi", "ubah"],
+    "language": "ms"
+  },
+  {
+    "id": "2",
+    "proverb": "Besar pasak daripada lubang",
+    "meaning": "Perbelanjaan lebih besar daripada pendapatan",
+    "relatedWords": ["besar", "pasak", "lubang"],
+    "language": "ms"
+  },
+  {
+    "id": "3",
+    "proverb": "Biar lambat asalkan sampai",
+    "meaning": "Lebih baik perlahan tetapi berjaya",
+    "relatedWords": [" lambat", "sampai"],
+    "language": "ms"
+  },
+  {
+    "id": "4",
+    "proverb": "Bagai aur dengan tebing",
+    "meaning": "Dua perkara yang tidak dapat dipisahkan",
+    "relatedWords": ["aur", "tebing"],
+    "language": "ms"
+  },
+  {
+    "id": "5",
+    "proverb": "Bermuka dingin",
+    "meaning": "Mempunyai wajah yang tidak mesra; berlagak cool",
+    "relatedWords": ["muka", "dingin"],
+    "language": "ms"
+  },
+  {
+    "id": "6",
+    "proverb": "Berani seperti harimau",
+    "meaning": "Sangat berani dan berani",
+    "relatedWords": ["harimau", "berani"],
+    "language": "ms"
+  },
+  {
+    "id": "7",
+    "proverb": "Bagai kepulan asap",
+    "meaning": "Hilang sama sekali; tidak kelihatan lagi",
+    "relatedWords": ["asap", "hilang"],
+    "language": "ms"
+  },
+  {
+    "id": "8",
+    "proverb": "Bagai rama-rama ke cahaya",
+    "meaning": "Sangat sukakan sesuatu hingga tidak sedar akan bahayanya",
+    "relatedWords": ["rama-rama", "cahaya"],
+    "language": "ms"
+  },
+  {
+    "id": "9",
+    "proverb": "Bersatu kita teguh, bercerai kita runtuh",
+    "meaning": "Kekuatan adalah dalam perpaduan",
+    "relatedWords": ["bersatu", "teguh", "cerai"],
+    "language": "ms"
+  },
+  {
+    "id": "10",
+    "proverb": "Biji Getah",
+    "meaning": "Seseorang yang pandai meminta-minta; mengemis",
+    "relatedWords": ["getah", "minta"],
+    "language": "ms"
+  },
+  {
+    "id": "11",
+    "proverb": "Bawa bertangguh",
+    "meaning": "Melengah-lengahkan kerja; bersifat sambil lewa",
+    "relatedWords": ["tangguh", "lewat"],
+    "language": "ms"
+  },
+  {
+    "id": "12",
+    "proverb": "Beli belah",
+    "meaning": "Membeli barang yang tidak perlu",
+    "relatedWords": ["beli", "belah"],
+    "language": "ms"
+  },
+  {
+    "id": "13",
+    "proverb": "Berdosa karena diam",
+    "meaning": "Membiarkan kejahatan berlaku tanpa mencela adalah berdosa",
+    "relatedWords": ["dosa", " diam"],
+    "language": "ms"
+  },
+  {
+    "id": "14",
+    "proverb": "Bagai bunga kembang tak semerbak",
+    "meaning": "Luaran baik tetapi dalaman jahat",
+    "relatedWords": ["bunga", "wangi"],
+    "language": "ms"
+  },
+  {
+    "id": "15",
+    "proverb": "Bagai buluh perindu",
+    "meaning": "Sangat kurus",
+    "relatedWords": ["buluh", "kurus"],
+    "language": "ms"
+  }
+]
