@@ -69,6 +69,12 @@ export default function Home() {
 
         <SearchBar onSearch={handleSearch} />
 
+        {!result && !isLoading && !error && (
+          <div className="mt-8 max-w-md mx-auto">
+            <WordOfTheDay />
+          </div>
+        )}
+
         {isLoading && (
           <div className="mt-12 flex justify-center">
             <div className="flex flex-col items-center gap-4">
